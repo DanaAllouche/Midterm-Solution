@@ -1,0 +1,8 @@
+tick101, ev003, fred, 20230802, 1
+tick102, ev002, gio, 20230803, 2
+tick103, ev001, majd, 20230801, 0
+tick104, ev001, dana, 20230702, 1
+tick105, ev004, mhmd, 20230801, 2
+tick106, ev001, jado, 20230805, 1
+tick007, ev003, users, 20230908, 0
+tick008, ev003, users, 20231009, 0
